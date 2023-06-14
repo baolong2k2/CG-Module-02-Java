@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Find-the-ascending-sequence/Find-the-ascending-sequence.iml" filepath="$PROJECT_DIR$/Find-the-ascending-sequence/Find-the-ascending-sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LESSON-13-Search-Algorithm.iml" filepath="$PROJECT_DIR$/.idea/LESSON-13-Search-Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-binary-search-algorithm/a-binary-search-algorithm.iml" filepath="$PROJECT_DIR$/a-binary-search-algorithm/a-binary-search-algorithm.iml" />
+    </modules>
+  </component>
+</project>
